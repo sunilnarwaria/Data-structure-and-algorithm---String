@@ -1,5 +1,5 @@
 // interviewbit
-
+// if  (x & (x-1) == 0 ) then x i a poer of 2
 int Solution::power(string A) {
     
     if(A == "1"){
